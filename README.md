@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -11,6 +12,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Sliding Window
@@ -26,5 +28,6 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0283-move-zeroes/) | Easy |
 <!---LeetCode Topics End-->
