@@ -9,7 +9,7 @@ class Solution:
                 min_value=min(min_value,right-left+1)
                 cur_sum-=nums[left]
                 left+=1
-        if(min_value==float('inf')):
+        if(min_value==float('inf')):   # given in question
             return 0
         else :
             return min_value
