@@ -91,6 +91,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0007-reverse-integer/) | Medium |
 | [0012-integer-to-roman](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0013-roman-to-integer/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0523-continuous-subarray-sum/) | Medium |
