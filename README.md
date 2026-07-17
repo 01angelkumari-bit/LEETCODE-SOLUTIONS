@@ -23,6 +23,7 @@
 | [0704-binary-search](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0724-find-pivot-index/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -40,6 +41,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0704-binary-search](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
