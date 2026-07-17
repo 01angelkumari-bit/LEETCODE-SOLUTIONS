@@ -36,6 +36,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0567-permutation-in-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0567-permutation-in-string/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -58,6 +59,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0344-reverse-string/) | Easy |
+| [0567-permutation-in-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Sorting
@@ -75,6 +77,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0567-permutation-in-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -101,6 +104,7 @@
 | [0125-valid-palindrome](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0344-reverse-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0567-permutation-in-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Math
