@@ -26,6 +26,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0704-binary-search](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0704-binary-search/) | Easy |
@@ -115,6 +116,7 @@
 | [0007-reverse-integer](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0007-reverse-integer/) | Medium |
 | [0012-integer-to-roman](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0013-roman-to-integer/) | Easy |
+| [0069-sqrtx](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0069-sqrtx/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Dynamic Programming
