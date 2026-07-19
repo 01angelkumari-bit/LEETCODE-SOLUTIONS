@@ -18,6 +18,7 @@
 | [0239-sliding-window-maximum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0283-move-zeroes/) | Easy |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -46,6 +47,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0704-binary-search](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -95,6 +97,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0015-3sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0217-contains-duplicate/) | Easy |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -117,6 +120,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -183,4 +187,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 <!---LeetCode Topics End-->
