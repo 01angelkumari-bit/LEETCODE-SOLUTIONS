@@ -7,6 +7,7 @@
 | [0015-3sum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0035-search-insert-position/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0162-find-peak-element/) | Medium |
@@ -106,6 +107,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0013-roman-to-integer/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0217-contains-duplicate](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0217-contains-duplicate/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -188,6 +190,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 <!---LeetCode Topics End-->
