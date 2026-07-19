@@ -20,6 +20,7 @@
 | [0239-sliding-window-maximum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -50,6 +51,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0704-binary-search](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0704-binary-search/) | Easy |
@@ -92,6 +94,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0647-palindromic-substrings/) | Medium |
@@ -196,4 +199,8 @@
 | [0073-set-matrix-zeroes](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
