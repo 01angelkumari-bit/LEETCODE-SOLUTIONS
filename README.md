@@ -178,6 +178,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0191-number-of-1-bits/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Greedy
@@ -207,6 +208,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
