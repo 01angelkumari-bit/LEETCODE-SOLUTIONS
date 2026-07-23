@@ -153,6 +153,7 @@
 | [0567-permutation-in-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -195,6 +196,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0509-fibonacci-number/) | Easy |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,4 +214,8 @@
 | [0268-missing-number](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0693-binary-number-with-alternating-bits](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 <!---LeetCode Topics End-->
