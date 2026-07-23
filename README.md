@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0035-search-insert-position/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0088-merge-sorted-array](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0088-merge-sorted-array/) | Easy |
+| [0136-single-number](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0162-find-peak-element/) | Medium |
@@ -212,6 +213,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0268-missing-number/) | Easy |
