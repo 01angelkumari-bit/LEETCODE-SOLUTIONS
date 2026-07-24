@@ -38,6 +38,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1207-unique-number-of-occurrences](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
@@ -125,6 +126,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1207-unique-number-of-occurrences](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1207-unique-number-of-occurrences/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
