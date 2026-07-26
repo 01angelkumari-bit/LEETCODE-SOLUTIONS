@@ -45,6 +45,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Binary Search
@@ -173,6 +174,7 @@
 | [0268-missing-number](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -229,6 +231,7 @@
 | [0268-missing-number](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0693-binary-number-with-alternating-bits](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -238,4 +241,13 @@
 | ------- | ------- |
 | [0078-subsets](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0090-subsets-ii/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 <!---LeetCode Topics End-->
