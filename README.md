@@ -33,6 +33,7 @@
 | [0523-continuous-subarray-sum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0605-can-place-flowers](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0605-can-place-flowers/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0724-find-pivot-index/) | Easy |
@@ -116,6 +117,7 @@
 | [0217-contains-duplicate](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0268-missing-number/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -174,6 +176,7 @@
 | [0268-missing-number](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Dynamic Programming
