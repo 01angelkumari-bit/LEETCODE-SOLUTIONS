@@ -31,6 +31,7 @@
 | [0410-split-array-largest-sum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0605-can-place-flowers](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0605-can-place-flowers/) | Easy |
@@ -259,8 +260,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0503-next-greater-element-ii/) | Medium |
 <!---LeetCode Topics End-->
