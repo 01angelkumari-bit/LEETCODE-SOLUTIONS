@@ -23,6 +23,7 @@
 | [0238-product-of-array-except-self](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0260-single-number-iii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -224,6 +225,7 @@
 | [0137-single-number-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0231-power-of-two/) | Easy |
+| [0260-single-number-iii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0693-binary-number-with-alternating-bits](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
