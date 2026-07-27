@@ -6,7 +6,7 @@ class Solution:
 
             while stack and stack[-1] > 0 and asteroid < 0:
 
-                if stack[-1] < -asteroid:
+                if stack[-1] < -asteroid:  # -ve * -ve = +ve, just compare magnitude
                     stack.pop()
 
                 elif stack[-1] == -asteroid:
@@ -16,7 +16,7 @@ class Solution:
                 else:
                     break
 
-            else:
+            else:   #else with while , means when while loop finsh, execute else
                 stack.append(asteroid)
 
         return stack
