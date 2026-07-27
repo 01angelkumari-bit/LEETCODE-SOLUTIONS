@@ -48,6 +48,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
@@ -122,6 +123,7 @@
 | [0268-missing-number](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0268-missing-number/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -149,6 +151,7 @@
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
