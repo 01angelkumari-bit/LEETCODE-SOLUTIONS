@@ -125,6 +125,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,6 +173,7 @@
 | [0647-palindromic-substrings](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -285,4 +287,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0901-online-stock-span/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
