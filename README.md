@@ -115,6 +115,7 @@
 | [0567-permutation-in-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0844-backspace-string-compare](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0844-backspace-string-compare/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,6 +177,7 @@
 | [0567-permutation-in-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0844-backspace-string-compare](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0844-backspace-string-compare/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Math
@@ -258,6 +260,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0735-asteroid-collision/) | Medium |
+| [0844-backspace-string-compare](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0844-backspace-string-compare/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -284,6 +287,7 @@
 | [0503-next-greater-element-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0739-daily-temperatures/) | Medium |
+| [0844-backspace-string-compare](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0844-backspace-string-compare/) | Easy |
 | [0901-online-stock-span](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0901-online-stock-span/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
