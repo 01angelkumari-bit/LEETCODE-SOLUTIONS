@@ -167,6 +167,7 @@
 | [0013-roman-to-integer](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0013-roman-to-integer/) | Easy |
 | [0058-length-of-last-word](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0125-valid-palindrome/) | Easy |
+| [0227-basic-calculator-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0344-reverse-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0344-reverse-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0567-permutation-in-string/) | Medium |
@@ -182,6 +183,7 @@
 | [0013-roman-to-integer](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0013-roman-to-integer/) | Easy |
 | [0069-sqrtx](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0189-rotate-array/) | Medium |
+| [0227-basic-calculator-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0231-power-of-two](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0509-fibonacci-number/) | Easy |
@@ -267,6 +269,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0227-basic-calculator-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0735-asteroid-collision/) | Medium |
