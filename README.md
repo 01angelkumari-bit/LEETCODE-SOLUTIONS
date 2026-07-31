@@ -179,6 +179,7 @@
 | [0647-palindromic-substrings](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0844-backspace-string-compare/) | Easy |
+| [0856-score-of-parentheses](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1544-make-the-string-great/) | Easy |
@@ -296,6 +297,7 @@
 | [0735-asteroid-collision](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0844-backspace-string-compare/) | Easy |
+| [0856-score-of-parentheses](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0856-score-of-parentheses/) | Medium |
 | [0901-online-stock-span](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0901-online-stock-span/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
