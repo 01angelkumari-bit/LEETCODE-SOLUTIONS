@@ -178,6 +178,7 @@
 | [0227-basic-calculator-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0344-reverse-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0344-reverse-string/) | Easy |
 | [0394-decode-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0394-decode-string/) | Medium |
+| [0402-remove-k-digits](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0402-remove-k-digits/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0647-palindromic-substrings/) | Medium |
@@ -228,6 +229,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0402-remove-k-digits/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0605-can-place-flowers](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0605-can-place-flowers/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -301,6 +303,7 @@
 | [0227-basic-calculator-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0394-decode-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0394-decode-string/) | Medium |
+| [0402-remove-k-digits](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0735-asteroid-collision/) | Medium |
@@ -316,6 +319,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0739-daily-temperatures/) | Medium |
