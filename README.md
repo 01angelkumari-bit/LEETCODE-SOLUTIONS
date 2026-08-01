@@ -49,6 +49,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1381-design-a-stack-with-increment-operation](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
@@ -309,6 +310,7 @@
 | [0901-online-stock-span](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0901-online-stock-span/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1381-design-a-stack-with-increment-operation](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1544-make-the-string-great](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1544-make-the-string-great/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Monotonic Stack
@@ -325,6 +327,7 @@
 | [0225-implement-stack-using-queues](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0901-online-stock-span](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0901-online-stock-span/) | Medium |
+| [1381-design-a-stack-with-increment-operation](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
