@@ -294,6 +294,7 @@
 | [0020-valid-parentheses](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0155-min-stack](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0155-min-stack/) | Medium |
 | [0224-basic-calculator](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0224-basic-calculator/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0227-basic-calculator-ii/) | Medium |
@@ -320,6 +321,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0901-online-stock-span](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0901-online-stock-span/) | Medium |
