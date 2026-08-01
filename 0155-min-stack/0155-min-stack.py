@@ -3,7 +3,7 @@ class MinStack:
     def __init__(self):
         self.stack=[]
         self.minstack=[]
-
+    
     def push(self, value: int) -> None:
         self.stack.append(value)
         if not self.minstack:
