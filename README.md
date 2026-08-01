@@ -168,6 +168,7 @@
 | [0012-integer-to-roman](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0058-length-of-last-word](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0125-valid-palindrome/) | Easy |
 | [0224-basic-calculator](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0224-basic-calculator/) | Hard |
@@ -208,6 +209,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0509-fibonacci-number](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0509-fibonacci-number/) | Easy |
@@ -288,6 +290,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0224-basic-calculator](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0227-basic-calculator-ii/) | Medium |
