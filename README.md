@@ -188,6 +188,7 @@
 | [0856-score-of-parentheses](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1544-make-the-string-great](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1544-make-the-string-great/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
@@ -236,6 +237,7 @@
 | [0605-can-place-flowers](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0605-can-place-flowers/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -316,6 +318,7 @@
 | [0901-online-stock-span](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0901-online-stock-span/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1544-make-the-string-great](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1544-make-the-string-great/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
@@ -328,6 +331,7 @@
 | [0503-next-greater-element-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0901-online-stock-span/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
