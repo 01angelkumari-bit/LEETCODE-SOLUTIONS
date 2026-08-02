@@ -176,6 +176,7 @@
 | [0125-valid-palindrome](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0125-valid-palindrome/) | Easy |
 | [0224-basic-calculator](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0316-remove-duplicate-letters](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0344-reverse-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0344-reverse-string/) | Easy |
 | [0394-decode-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0402-remove-k-digits/) | Medium |
@@ -229,6 +230,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0402-remove-k-digits/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0605-can-place-flowers](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0605-can-place-flowers/) | Easy |
@@ -302,6 +304,7 @@
 | [0225-implement-stack-using-queues](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0316-remove-duplicate-letters](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0394-decode-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0496-next-greater-element-i/) | Easy |
@@ -319,6 +322,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0503-next-greater-element-ii/) | Medium |
