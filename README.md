@@ -189,6 +189,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1544-make-the-string-great](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1544-make-the-string-great/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
@@ -319,6 +320,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1544-make-the-string-great](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1544-make-the-string-great/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
