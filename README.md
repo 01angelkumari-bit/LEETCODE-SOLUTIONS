@@ -201,6 +201,7 @@
 | [0012-integer-to-roman](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0050-powx-n/) | Medium |
+| [0062-unique-paths](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -219,6 +220,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0062-unique-paths](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0070-climbing-stairs/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -296,6 +298,7 @@
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0062-unique-paths/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
