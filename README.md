@@ -19,6 +19,7 @@
 | [0162-find-peak-element](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0189-rotate-array/) | Medium |
+| [0198-house-robber](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -223,6 +224,7 @@
 | [0062-unique-paths](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0070-climbing-stairs/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0198-house-robber](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0198-house-robber/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0509-fibonacci-number](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0509-fibonacci-number/) | Easy |
 | [0647-palindromic-substrings](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0647-palindromic-substrings/) | Medium |
