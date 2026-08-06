@@ -360,4 +360,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
