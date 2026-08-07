@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0015-3sum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0035-search-insert-position/) | Easy |
@@ -60,6 +61,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0069-sqrtx/) | Easy |
@@ -233,6 +235,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0191-number-of-1-bits](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0191-number-of-1-bits/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
