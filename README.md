@@ -109,6 +109,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0015-3sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -367,4 +368,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 <!---LeetCode Topics End-->
