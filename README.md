@@ -122,6 +122,7 @@
 | [0647-palindromic-substrings](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0844-backspace-string-compare/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -378,4 +379,5 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0707-design-linked-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
