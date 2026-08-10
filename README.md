@@ -356,6 +356,7 @@
 | [0155-min-stack](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0707-design-linked-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0707-design-linked-list/) | Medium |
 | [0901-online-stock-span](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0901-online-stock-span/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 ## Data Stream
@@ -375,4 +376,5 @@
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0707-design-linked-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0707-design-linked-list/) | Medium |
 <!---LeetCode Topics End-->
