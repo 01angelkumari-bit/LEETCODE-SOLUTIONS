@@ -117,6 +117,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0189-rotate-array/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0344-reverse-string/) | Easy |
@@ -267,6 +268,7 @@
 | [0050-powx-n](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0050-powx-n/) | Medium |
 | [0224-basic-calculator](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0231-power-of-two/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0394-decode-string/) | Medium |
 | [0509-fibonacci-number](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0509-fibonacci-number/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -328,6 +330,7 @@
 | [0225-implement-stack-using-queues](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0394-decode-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0402-remove-k-digits/) | Medium |
@@ -383,6 +386,7 @@
 | [0141-linked-list-cycle](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0876-middle-of-the-linked-list/) | Easy |
