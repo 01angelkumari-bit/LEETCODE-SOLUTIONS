@@ -266,6 +266,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0050-powx-n](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0050-powx-n/) | Medium |
 | [0224-basic-calculator](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0231-power-of-two/) | Easy |
@@ -385,6 +386,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0024-swap-nodes-in-pairs](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0141-linked-list-cycle](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
