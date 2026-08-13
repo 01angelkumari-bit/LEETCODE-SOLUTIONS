@@ -115,6 +115,7 @@
 | [0125-valid-palindrome](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0189-rotate-array/) | Medium |
@@ -133,6 +134,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0088-merge-sorted-array/) | Easy |
+| [0148-sort-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0148-sort-list/) | Medium |
 | [0217-contains-duplicate](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0268-missing-number/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -247,6 +249,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0148-sort-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0148-sort-list/) | Medium |
 | [0191-number-of-1-bits](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0191-number-of-1-bits/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -394,6 +397,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0328-odd-even-linked-list/) | Medium |
@@ -405,4 +409,8 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
