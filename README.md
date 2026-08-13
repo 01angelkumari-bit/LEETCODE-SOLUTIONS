@@ -174,6 +174,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -252,6 +253,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0023-merge-k-sorted-lists](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0148-sort-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0148-sort-list/) | Medium |
 | [0191-number-of-1-bits](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0191-number-of-1-bits/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -397,6 +399,7 @@
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0023-merge-k-sorted-lists](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
@@ -420,5 +423,10 @@
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0148-sort-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0148-sort-list/) | Medium |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
