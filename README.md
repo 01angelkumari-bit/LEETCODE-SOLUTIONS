@@ -231,6 +231,7 @@
 | [0227-basic-calculator-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0231-power-of-two](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0268-missing-number/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -350,6 +351,7 @@
 | [0316-remove-duplicate-letters](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0394-decode-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0402-remove-k-digits/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0735-asteroid-collision/) | Medium |
@@ -415,6 +417,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0707-design-linked-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
