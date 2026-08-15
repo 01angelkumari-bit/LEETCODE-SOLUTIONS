@@ -289,6 +289,7 @@
 | [0394-decode-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0394-decode-string/) | Medium |
 | [0509-fibonacci-number](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0509-fibonacci-number/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -368,6 +369,7 @@
 | [1381-design-a-stack-with-increment-operation](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1544-make-the-string-great](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1544-make-the-string-great/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -380,6 +382,7 @@
 | [0901-online-stock-span](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0901-online-stock-span/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -425,6 +428,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
