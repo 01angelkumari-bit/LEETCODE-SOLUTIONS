@@ -50,6 +50,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1381-design-a-stack-with-increment-operation](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -360,6 +361,7 @@
 | [0856-score-of-parentheses](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0856-score-of-parentheses/) | Medium |
 | [0901-online-stock-span](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0901-online-stock-span/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
@@ -376,6 +378,7 @@
 | [0503-next-greater-element-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0901-online-stock-span/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -420,6 +423,7 @@
 | [0445-add-two-numbers-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0707-design-linked-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1019-next-greater-node-in-linked-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
