@@ -153,6 +153,7 @@
 | [0012-integer-to-roman](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0013-roman-to-integer/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -416,6 +417,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0086-partition-list/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0143-reorder-list/) | Medium |
