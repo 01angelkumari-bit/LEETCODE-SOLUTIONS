@@ -343,6 +343,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0094-binary-tree-inorder-traversal](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0143-reorder-list](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0143-reorder-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -449,13 +450,16 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
