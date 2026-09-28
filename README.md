@@ -457,6 +457,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -470,6 +471,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -483,6 +485,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -494,6 +497,7 @@
 | [0101-symmetric-tree](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/01angelkumari-bit/LEETCODE-SOLUTIONS/tree/main/0112-path-sum/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
